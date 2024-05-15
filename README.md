@@ -1,5 +1,3 @@
-
-
 # Using Bluetooth Web API with JavaScript
 
 The Bluetooth Web API, available in modern web browsers, empowers developers to integrate Bluetooth functionality seamlessly into web applications. With the power of JavaScript, developers can harness the capabilities of Bluetooth-enabled devices directly from the browser, opening up a realm of possibilities for interactive and connected web experiences.
@@ -34,10 +32,10 @@ Below are the key files needed for implementing the Bluetooth Web API:
 2. **script.js**: The JavaScript file responsible for handling user interactions, device discovery, and service interaction.
 3. **style.css**: The CSS file for styling the elements in your web application.
 
-#### Note :  It's important to note that the Bluetooth Web API has limited connectivity, and not all Bluetooth devices can be connected. Currently, it supports connecting to devices that implement the Bluetooth Low Energy (BLE) standard.
+#### Note : It's important to note that the Bluetooth Web API has limited connectivity, and not all Bluetooth devices can be connected. Currently, it supports connecting to devices that implement the Bluetooth Low Energy (BLE) standard.
 
 ### **Additional Resources 📚**
 
 * [Official MDN Documentation](https://developer.mozilla.org/en-US/docs/Web/API/Web\_Bluetooth\_API)
 * [Chrome for Developers Documentation](https://developer.chrome.com/docs/capabilities/bluetooth)
-
+* [Github Source Code](https://github.com/mayankyadav1711/javascriptXbluetooth.git)
