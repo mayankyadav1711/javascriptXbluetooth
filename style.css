@@ -1,0 +1,102 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+/* Body styles */
+body {
+  font-family: "Montserrat", sans-serif;
+  background: url(https://4kwallpapers.com/images/walls/thumbs_3t/1455.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+/* Container styles */
+.container {
+  background-color: rgb(255 255 255 / 65%);
+  padding: 40px;
+  border-radius: 30px;
+  box-shadow: 0 0 30px rgba(0, 0, 0, 0.3);
+  text-align: center;
+  max-width: 800px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+
+/* Heading styles */
+h1 {
+  font-size: 48px;
+  font-weight: bold;
+  margin-bottom: 40px;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4);
+  color: black;
+}
+
+/* Button styles */
+button {
+  background-color: #dc2430;
+  margin: auto;
+  color: #fff;
+  padding: 18px 36px;
+  border: none;
+  border-radius: 50px;
+  font-size: 20px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background-color 0.3s ease, transform 0.3s ease;
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3);
+  width: 50%;
+}
+
+button:hover {
+  background-color: #b91d28;
+  transform: translateY(-3px);
+}
+
+/* Device image styles */
+#deviceImage {
+  height: 250px;
+  display: flex;
+  width: 250px;
+  border-radius: 15px;
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3);
+  margin-bottom: 30px;
+  justify-content: center;
+  align-items: center;
+  background-color: #ffffff96;
+}
+
+/* Details styles */
+#details {
+  text-align: left;
+  line-height: 1.6;
+  color: black;
+}
+
+/* List styles */
+ul {
+  list-style-type: disc; /* Use disc bullet points */
+  padding-left: 20px; /* Add left padding to the list */
+}
+
+li {
+  margin-bottom: 12px;
+  font-size: 20px;
+  text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.3);
+  margin-left: 20px;
+}
+
+.outerdiv {
+  margin: 20px;
+  display: flex;
+  justify-content: space-between;
+}
