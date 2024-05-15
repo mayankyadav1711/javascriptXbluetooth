@@ -39,3 +39,4 @@ Below are the key files needed for implementing the Bluetooth Web API:
 * [Official MDN Documentation](https://developer.mozilla.org/en-US/docs/Web/API/Web\_Bluetooth\_API)
 * [Chrome for Developers Documentation](https://developer.chrome.com/docs/capabilities/bluetooth)
 * [Github Source Code](https://github.com/mayankyadav1711/javascriptXbluetooth.git)
+* [Youtube Video (Demo)](https://youtu.be/OnfbZgunh1k)
